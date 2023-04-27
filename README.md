@@ -1,17 +1,12 @@
 # 💫 About Me:
- 	•Frontend/ FullStack developer;
-  •Good knowledge of js core theory;
-  •Use Visual Studio Code IDE;
-  •Practical experience in fronend development with using such technologies as HTML5,CSS3, 
-  SASS/SCSS,JavaScript,TypeScript,React, Angular, Redux, Redux Toolkit,MobX,Node.js(express, nest.js),AWS,Git(GitLab,GitHub), Bitbucket;
-  •Practical experience in writing unit tests and e2e tests using React Testing library,Jest, Enzyme and Cypress;
-  •Practical experience\theoretical knowledges in AWS cloud solutions;
-  •I also have some pet-projects using native JS/TS, react+redux, Angular, node.js, express, AWS;
-  •I am very interested in deepening my knowledge in various areas of programming;
-  •I am interested in how to write code better, application architecture, patterns.
-  Ready for new challenging tasks;
-  •I am responsible and focused, interested in developing and contributing to the project;
-  •Good communication skills, have management experience in my previous job.
+ >As a frontend/full-stack developer, I have practical experience in various technologies such as HTML5, CSS3, SASS/SCSS, JavaScript, TypeScript, Node.js, >React,React-native(Expo CLI), Angular, Redux, Redux Toolkit, MobX, AWS, Git. Additionally, I have hands-on experience in writing unit and e2e tests using >React Testing Library, Jest, Enzyme, and Cypress.
+ 
+ 
+ >Apart from my extensive production experience working on Biotech projects, I have also worked on several pet projects, including native JS/TS, >React+Redux, React-native, Angular, Node.js, Express, and AWS. I am always eager to deepen my knowledge in various programming areas, especially in >application architecture, patterns and code quality.
+ 
+ 
+ >In my previous job, I gained valuable experience in project management, which has enhanced my communication skills and ability to focus on tasks. I am >responsible, focused, and ready to take on challenging projects.
+ >Overall, I am a passionate developer who is always looking for opportunities to improve and contribute to projects.
 
 
 # 💻 Tech Stack:
@@ -19,7 +14,10 @@
 
 
 ### 😂 Random Dev Meme
-<img src="https://i.redd.it/scvmrj6bx1t91.jpg" width="512px"/>
+<div align="center">
+ <img src="https://i.redd.it/scvmrj6bx1t91.jpg" width="512px"/>
+</div>
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=stskdrv&icon=0&color=0)](https://visitcount.itsvg.in)
